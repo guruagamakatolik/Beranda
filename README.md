@@ -23,7 +23,7 @@ Selamat datang di **Website Guru Agama Katolik**! Website ini dibuat untuk mendu
 Cukup buka alamat berikut di browser Anda:
 
 ```
-https://github.com/peti88/guru-agama-katolik.git
+https://guruagamakatolik.github.io
 ```
 
 ## Kontak
